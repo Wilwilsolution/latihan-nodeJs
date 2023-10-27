@@ -1,0 +1,15 @@
+{
+  "name": "latihan_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wildanCA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
